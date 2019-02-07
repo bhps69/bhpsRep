@@ -1,0 +1,11 @@
+
+	.menu{
+		float:right;
+		-moz-column-count: 2;
+    -moz-column-gap: 10px;
+    -webkit-column-count: 4;
+    -webkit-column-gap: 10px;
+    column-count: 2;
+    column-gap: 10px;
+	list-style:none;}
+	
